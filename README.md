@@ -12,9 +12,9 @@ Supported Features:
 
 Authors:
 ---------
-* Sidd Arora (@siddarora)
-* Siva Manoharan (@smanoharan)
-* Adrian Shaw (@ashawnz)
+* Sidd Arora (http://github.com/siddarora/)
+* Siva Manoharan (http://github.com/smanoharan/)
+* Adrian Shaw (http://github.com/ashawnz/)
 * Martin Poot (http://nz.linkedin.com/in/martinpoot42)
 
 Libraries Used:
